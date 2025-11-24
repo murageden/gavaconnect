@@ -1,9 +1,8 @@
 # GavaConnect App
 
-Implementing GavaConnect, a comprehensive repository that serves as the official catalog for all Government Application Programming Interfaces (APIs). Full access to this centralized resource, which includes detailed documentation and specifications, is provided through the official application, available by navigating to: https://developer.go.ke/apis 
+Implementing GavaConnect, a comprehensive repository that serves as the official catalog for all Government Application Programming Interfaces (APIs). Full access to this centralized resource, which includes detailed documentation and specifications, is provided through the official application, available by navigating to: [Developer Portal](https://developer.go.ke/apis) 
 
-This application is hosted here: https://gavaconnect.surge.sh
-
+This application is available [Here]](https://gavaconnect.vercel.app/)
 ## Available APIs
 
 The core functionality of this application is powered by a carefully selected series of APIs, which have been fully implemented and are documented below:
