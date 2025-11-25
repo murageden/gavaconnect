@@ -9,7 +9,7 @@ The core functionality of this application is powered by a carefully selected se
 
 ### `KRA Pin Registration`
 
-Use this API to *authenticate Excise License Numbers* issued by the *Kenya Revenue Authority (KRA)*. Upon validation, the system retrieves essential license metadata, including the taxpayer's name and PIN, the specific class of goods, and the date of issuance
+This API facilitates the registration of new *Personal Identification Numbers (PINs)* for *individual Kenyan taxpayers.*
 
 ### `Nill Tax Returns Filling`
 
@@ -59,7 +59,7 @@ The service provides a mechanism for *verified systems* (both within the organiz
 
 ### `Excise License Check With PIN`
 
-This service acts as a *central verification and information retrieval tool*. It confirms a taxpayer's identity via 8PIN validation* and delivers a complete compliance snapshot, including their *Excise License status* and their current registration standing for VAT and PAYE
+This service acts as a *central verification and information retrieval tool*. It confirms a taxpayer's identity via *PIN validation* and delivers a complete compliance snapshot, including their *Excise License status* and their current registration standing for VAT and PAYE
 
 ### `KRA PIN Retrieval With KRA PIN`
 
